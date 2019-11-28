@@ -1,0 +1,118 @@
+.card-comments img {
+  width: 4rem; }
+.card {
+  margin-bottom: 1em;
+  /* margin-left: 1em; */
+}
+.container {
+  padding-top: 2em;
+  /* background-color: black; */
+}
+.card-body {
+  max-height: 6em;
+  overflow-y: hidden;
+}
+.item {
+  height: 4em;
+  background-color: blue;
+}
+body {
+  background-color: rgba(236, 236, 236, 0.6);
+}
+.list-unstyled li a {
+  color: white !important;
+}
+.tile {
+  min-height: 13em;
+  color: blue;
+  background-color: white;
+  margin-bottom: 1em;
+  text-align: left;
+}
+.tile .h5 {
+  padding: 1em 0.9em 0.5em 0.7em;
+}
+.tile-body {
+  color: black;
+  font-size: 0.9em;
+  padding: 0 1em 1em;
+  text-decoration: none;
+}
+.slider-img {
+  height: 100% !important;
+}
+.tile-img {
+  width: 100%;
+  background-color: rgba(20, 50, 219, 0.6) !important;
+}
+.cat-link {
+  color: black !important;
+  text-transform: uppercase;
+  font-size: 1.8em;
+}
+.small-tile {
+  background-color: white;
+  margin-bottom: 0.7em;
+  min-height: 3.5em;
+  /* text-align: left; */
+}
+.small-tile .h6 {
+  font-size: 0.9em;
+  padding-left: 0.5em;
+  padding-top: 0.7em;
+  color: black !important;
+}
+.small-tile:last-child {
+  border-left: 2px solid black;
+}
+.small-tile:nth-child(2n+1) {
+  border-left: 2px solid blue;
+}
+.logo {
+  color: #ffffff;
+}
+.caption .h5 {
+  color: blue !important;
+  font-size: 1em;
+  text-decoration: none;
+}
+.caption .h5:hover {
+  color: black !important;
+  text-decoration: underline;
+}
+.image {
+  width: 100%;
+}
+.popular .list-unstyled li a {
+  color: blue !important;
+}
+.form {
+  background-color: rgba(80, 106, 252, 0.9);
+  padding: 2em 1em 0;
+  margin-bottom: 2em;
+  text-align: center;
+}
+.carousel-item {
+  width: 100vw;
+}
+.carousel-control-next, .carousel-control-prev {
+  font-size: 2em;
+}
+.category-header {
+  margin-left: 1em;
+}
+.navbar-brand {
+  font-size: 1.6em;
+  font-weight: bolder;
+}
+.nav-link:hover {
+  font-weight: bold;
+  transform: scale(1.1);
+}
+.tile-body:hover {
+  text-decoration: none;
+}
+footer {
+  background-color: rgba(20, 50, 219, 0.9);
+  color: #ffffff
+}
