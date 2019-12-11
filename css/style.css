@@ -38,6 +38,9 @@ body {
   padding: 0 1em 1em;
   text-decoration: none;
 }
+a .tile .tile-body:hover {
+  text-decoration: none;
+}
 .slider-img {
   height: 100% !important;
 }
